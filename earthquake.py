@@ -102,6 +102,6 @@ st.markdown("""
     <hr style="margin-top: 3rem;">
     <div style="text-align: center; color: gray;">
         Created by <strong>Mahendraditya Pendurthi</strong>
-            <strong>mahendraditya.pen@gmail.com</strong>
+        st.write("mahendraditya.pen@gmail.com")
     </div>
 """, unsafe_allow_html=True)
